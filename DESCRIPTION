@@ -1,0 +1,10 @@
+Package: tester
+Type: Package
+Title: This Package Does Very Little
+Version: 0.1.0
+Author: Alex Whan
+Maintainer: Alex Whan <alexwhan@gmail.com>
+Description: This package is for learning.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
